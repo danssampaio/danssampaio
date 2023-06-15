@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dan.souza_s/)
 
 
-[![Dan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio)](https://github.com/danssampaio/github-readme-stats)
+[![Dan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio)]
 
 
 

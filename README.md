@@ -17,8 +17,7 @@
       background-color: #f1f1f1;
       padding: .5rem;
       text-align: center;
-    }
-    
+    } 
   </style>
 </head>
 <body>

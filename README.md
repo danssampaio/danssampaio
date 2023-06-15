@@ -1,24 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 10px;
-    }
-    .grid-item {
-      background-color: #f1f1f1;
-      padding: 20px;
-      text-align: left;
-    }
-    .waka-connect-style {
-      margin-bottom:1rem;
-      background-color: #f1f1f1;
-      padding: .5rem;
-      text-align: center;
-    } 
-  </style>
 </head>
 <body>
     <div>
@@ -28,7 +10,7 @@
         <h1>Hi 👋, I'm Dan Souza</h1>
         <h3>Frontend Web Developer</h3>
     </div>
-    <div class="waka-connect-style">
+    <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>Connect with me</h3>
         <a href="https://www.linkedin.com/in/darley-souza-sampaio-046170193">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -37,12 +19,12 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
     </div>
-    <div class="waka-connect-style">
+    <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>My Wakatime</h3>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
     </div>
-    <div class="grid-container">
-        <div class="grid-item">
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+        <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">
             <p align="left"> 
                 <h3>Programming Languages</h3>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -51,7 +33,7 @@
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
             </p>
         </div>
-        <div class="grid-item">
+        <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">
         <p align="left">
                 <h3>Frontend Development</h3>
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -62,14 +44,14 @@
                 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
             </p>
         </div>
-        <div class="grid-item">
+        <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">
             <p align="left">
                 <h3>Backend Development</h3>
                 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
             </p>
         </div>
-         <div class="grid-item">
+         <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">
             <p align="left">
             <h3>Database</h3>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  

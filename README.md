@@ -4,8 +4,8 @@
   <style>
     .grid-container {
       display: grid;
-      grid-template-columns: repeat(2, 1fr); /* Define três colunas de largura igual */
-      gap: 10px; /* Define o espaçamento entre as células */
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
     }
     .grid-item {
       background-color: #f1f1f1;

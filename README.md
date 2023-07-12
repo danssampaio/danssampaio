@@ -8,7 +8,7 @@
     </div>
     <div align="center">
         <h1>Hi 👋, I'm Dan Souza</h1>
-        <h3>Frontend Web Developer</h3>
+        <h3>Web Developer</h3>
     </div>
     <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>Connect with me</h3>

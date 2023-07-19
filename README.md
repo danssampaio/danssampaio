@@ -21,8 +21,12 @@
     </div>
     <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>My Wakatime</h3>
-        <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
+        <div>
+            <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
+        </div>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
+        </div>
     </div>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
         <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">

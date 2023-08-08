@@ -24,10 +24,8 @@
         <div>
             <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
         </div>
-        <div>
+        <div style="display: flex;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">
-        </div>
-        <div>
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
         </div>
     </div>

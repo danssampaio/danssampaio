@@ -18,7 +18,7 @@
         <a href="https://www.instagram.com/dan.souza_s/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
-        <a href="mailto:email@dan.souza.swork@gmail.com">
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXPtJdmjMcjVHvggmBPGQFbbKxfLlHMxfXFLQDBqGBmRnXcNZwRtRcmxTMvzlptzQhSNB">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
     </div>

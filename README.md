@@ -6,6 +6,9 @@
     <div>
         <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
     </div>
+    <div>
+        <img src="https://github.com/danssampaio/danssampaio/blob/output/github-contribution-grid-snake.svg">
+    </div>
     <div align="center">
         <h1>Hi 👋, I'm Dan Souza</h1>
         <h3>Web Developer</h3>

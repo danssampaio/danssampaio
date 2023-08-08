@@ -25,7 +25,7 @@
             <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
         </div>
         <div style="display: flex;">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
+            <img class="width:60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
         </div>
     </div>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width:100%;">

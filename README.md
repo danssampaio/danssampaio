@@ -27,6 +27,9 @@
         <div>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">
         </div>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
+        </div>
     </div>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
         <div style="background-color: #f1f1f1; padding: 20px; text-align: left;">

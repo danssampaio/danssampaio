@@ -18,6 +18,9 @@
         <a href="https://www.instagram.com/dan.souza_s/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
+        <a href="mailto:email@dan.souza.swork@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
     </div>
     <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>My Wakatime</h3>

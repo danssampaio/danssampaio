@@ -22,10 +22,10 @@
     <div style="margin-bottom:1rem; background-color: #f1f1f1; padding: .5rem; text-align: center;">
         <h3>My Wakatime</h3>
         <div>
-            <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danssampaio&layout=compact" alt="Total time coded since Jun 1 2023" /></a>
+            <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7"><img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
         </div>
         <div>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">
         </div>
     </div>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">

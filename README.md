@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Dan Souza and I'm a Developer.</h2>
+<h2 align="center">Hi 👋! My name is Dan Souza and I'm a Developer.</h2>
 
 ###
 

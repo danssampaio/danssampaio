@@ -139,13 +139,3 @@
 <img src="https://raw.githubusercontent.com/danssampaio/danssampaio/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="center">Visitors Count</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/danssampaio/count.svg?"  />
-</div>
-
-###

@@ -1,11 +1,9 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  workflow_dispatch: # Permite execução manual do workflow
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente às 12 AM UTC
 
 jobs:
   update-readme:
@@ -15,10 +13,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api
+          ### Meta
           REPOSITORY: danssampaio/danssampaio
-          ### content
+          API_BASE_URL: https://wakatime.com/api
+          ### Content
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: -> 
@@ -29,12 +27,12 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          IGNORED_LANGUAGES: YAML,JSON,TOML
+          ### Commit
+          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: Dan Souza
-          AUTHOR_EMAIL: darleyble3@gmail.com
+          AUTHOR_NAME: "Dan Souza"
+          AUTHOR_EMAIL: "darleyble3@gmail.com"

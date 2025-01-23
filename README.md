@@ -26,8 +26,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=danssampaio&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danssampaio&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7">
+<img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
   
 </div>
 

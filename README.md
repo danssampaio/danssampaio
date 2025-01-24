@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <h3>My Wakatime (Top Languages Only)"</h3>
+  <h3>My Wakatime (Top Languages Only)</h3>
   <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7">
     <img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" />
   </a>

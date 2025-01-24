@@ -26,7 +26,7 @@
     <img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" />
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio&layout=compact&theme=github_dark&hide_border=false" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio&layout=compact&langs_count=12&theme=github_dark&hide_border=false" alt="WakaTime Stats" />
 </div>
 
 ###

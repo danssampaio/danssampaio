@@ -20,9 +20,14 @@
 
 ###
 <div align="center">
+  <h3>My Wakatime</h3>
   <a href="https://wakatime.com/@3775be05-154e-4256-9fca-b70fc8dfddf7">
   <img src="https://wakatime.com/badge/user/3775be05-154e-4256-9fca-b70fc8dfddf7.svg" alt="Total time coded since Jun 1 2023" /></a>
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio&layout=compact&langs_count=5)
 </div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danssampaio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danssampaio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />

@@ -6,6 +6,8 @@
 
 ###
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=danssampaio&layout=compact&langs_count=6&theme=github_dark&hide_border=false&custom_title=Total%20Hours:%20500%20hrs" alt="WakaTime Stats" height="300" />
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dan-souza-sampaio-046170193/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />

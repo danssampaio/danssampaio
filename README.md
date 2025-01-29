@@ -1,5 +1,7 @@
 <h2 align="center">Hi! My name is Dan Souza and I'm a Developer.</h2>
 
+<p align="center">I have a degree in Computer Science and am currently working as a web developer with Angular.</p>
+
 ###
 
 <h3 align="center">Connect with me</h3>
